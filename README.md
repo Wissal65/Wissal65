@@ -1,16 +1,41 @@
-### Hi there 👋
+[![Banner](./banner.png)](https://github.com/Wissal65)
 
-<!--
-**Wissal65/Wissal65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width=35 height=35/></h1>
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <p>I'm a 21-year-old passionate mobile apps developer with a knack for web development, specializing in Android apps using Java, React Native, and   Flutter. With a strong foundation in JavaScript, React, CSS, and its famous frameworks like Tailwind CSS and Bootstrap, I'm very creative and love to create aesthetic tech solutions that come to life.</p></div>
+
+
+
+
+  <a href="https://slillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,javascript,nodejs,java,flutter,swift,cs,cpp,dotnet,html,css,tailwind,bootstrap,sass,firebase,linux,mysql,github,figma,photoshop,illustrator,wordpress"/><br>
+  </a>
+  <br>
+  
+## Stats 
+  
+<div style="display:flex;flex-direction:row;justify-content:center;">
+    <img height="140"  src="https://streak-stats.demolab.com/?user=salma-elbakkouri&count private=true&theme=react&border_radius-10" alt="streak stats" style="margin: 0" />
+  <img height="140"  src="https://github-readme-stats-salesp07.vercel.app/api?username=salma-elbakkouri&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
+  <img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs?username=salma-elbakkouri&show_icons=true&locale=en&layout=compact&theme=react&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
+</div>
+
+<br/>
+<hr/>
+
+## Reach me 📫
+<a href="mailto:elbakkourisalmaa@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+
+<a href="https://www.linkedin.com/in/salma-el-bakkouri-b6a848283" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://your_portfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" />
+</a>
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=salma-elbakkouri&label=Profile%20views&color=0e75b6&style=flat" alt="salma-elbakkouri" /> -->
