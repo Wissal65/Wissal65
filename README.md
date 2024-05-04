@@ -1,20 +1,20 @@
-[![Banner](./banner.png)](https://github.com/Wissal65)
+[![Banner](./bannerblack.png)](https://github.com/Wissal65)
 
 <h1>Hi guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width=35 height=35/></h1>
 
  
 
 
-  <p>I'm a 21-year-old passionate mobile apps developer with a knack for web development, specializing in Android apps using Java, React Native, and   Flutter. With a strong foundation in JavaScript, React, CSS, and its famous frameworks like Tailwind CSS and Bootstrap, I'm very creative and love to create aesthetic tech solutions that come to life.</p></div>
-
+  <p>My name is Bara Wissal and I am a mobile & web developer. I'm from Morocco, living in Sale..</p></div>
+  <h2>🔧 Technologies & Tools</h2>
 
 
 
   <a href="https://slillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,javascript,nodejs,java,flutter,swift,cs,cpp,dotnet,html,css,tailwind,bootstrap,sass,firebase,linux,mysql,github,figma,photoshop,illustrator,wordpress"/><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,spring,py,java,php,c,django,flutter,swift,html,css,bootstrap,firebase,mysql,sqlite,git,github,figma,opencv,vscode,eclipse,androidstudio,postman,idea"/><br>
   </a>
   <br>
-  
+ 
 ## Stats 
   
 <div style="display:flex;flex-direction:row;justify-content:center;">
