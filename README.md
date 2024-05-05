@@ -8,8 +8,6 @@
   <p>My name is Bara Wissal and I am a mobile & web developer. I'm from Morocco, living in Sale..</p></div>
   <h2>🔧 Technologies & Tools</h2>
 
-
-
   <a href="https://slillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,spring,py,java,php,c,django,flutter,swift,html,css,bootstrap,firebase,mysql,sqlite,git,github,figma,opencv,vscode,eclipse,androidstudio,postman,idea"/><br>
   </a>
