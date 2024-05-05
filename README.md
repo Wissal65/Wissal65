@@ -16,13 +16,30 @@
   <br>
  
 ## Stats 
+---
 
-  <img height="140"  src="https://streak-stats.demolab.com/?user=salma-elbakkouri&count private=true&theme=react&border_radius-10" alt="streak stats" style="margin: 0" width="100%" />
-<div style="display:flex;flex-direction:row;justify-content:center;">
-  <img height="140"  src="https://github-readme-stats-salesp07.vercel.app/api?username=salma-elbakkouri&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
-  <img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs?username=salma-elbakkouri&show_icons=true&locale=en&layout=compact&theme=react&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+<p align="center">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=Wissal65&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+ ---
+<p align="center">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissal65&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<br/>
-<hr/>
+
+
+  
+
 <img align="right" src="https://komarev.com/ghpvc/?username=Wissal65&label=Profile%20views&color=0e75b6&style=flat" alt="Wissal Bara" />
