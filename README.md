@@ -1,4 +1,4 @@
-[![Banner](./bannerblack.png)](https://github.com/Wissal65)
+<!-- [![Banner](./bannerblack.png)](https://github.com/Wissal65)-->
 
 <h1>Hi guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width=35 height=35/></h1>
 
@@ -16,7 +16,6 @@
   <br>
  
 ## Stats 
----
 
   
 <p align="center">
