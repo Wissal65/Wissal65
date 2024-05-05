@@ -20,18 +20,18 @@
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=github_dark_dimmed&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
 ---
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=Wissal65&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=Wissal65&show_icons=true&theme=github_dark_dimmed&hide_border=true&border_radius=5&card_width=800">
 </p>
 
  ---
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissal65&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissal65&size_weight=0.15&count_weight=0.5&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 <div id="header" align="center">
