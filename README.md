@@ -5,7 +5,7 @@
  
 
 
-  <p>My name is Bara Wissal and I am a mobile & web developer. I'm from Morocco, living in Sale..</p></div>
+  <p>Hey there! I'm Bara Wissal, an aspiring web and mobile developer with a passion for crafting digital experiences. With a keen interest in both web and mobile development, I'm always eager to learn and explore new technologies. I thrive on solving complex problems and am constantly pushing myself to grow as a developer. My heart lies in building dynamic and user-friendly applications that enhance the digital landscape. From frontend to backend, I'm committed to mastering the craft and bringing innovative ideas to life. Let's collaborate and create something remarkable together!</p></div>
   <h2>🔧 Technologies & Tools</h2>
 
   <a href="https://slillicons.dev">
